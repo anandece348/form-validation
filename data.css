@@ -1,0 +1,13 @@
+#name, #father-name, #mother-name, #email-id, #mobile-number, #nation{
+    border: 1px solid black;
+    padding-right: 300px;
+    
+}
+.label{
+    margin-bottom: 2px;
+    padding-left: 600px;
+    padding-top: 30px;
+}
+.details{
+    padding-left: 750px;
+}
