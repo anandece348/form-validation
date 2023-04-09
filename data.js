@@ -25,6 +25,3 @@ motherName1.innerHTML = motherName;
 emailId1.innerHTML = emailId;
 mobileNumber1.innerHTML = mobileNumber;
 nationality1.innerHTML = nationality;
-
-
-// file:///F:/Project/form-validation/data.html?name=Anand+Sahu&email-id=anandece2608%40gmail.com&mobile-number=8252053691&father-name=Suraj+Narayna+Sahu&mother-name=Shiv+Devi&gender=on&Nationality=Indian&password=12345678&confirm-password=12345678
